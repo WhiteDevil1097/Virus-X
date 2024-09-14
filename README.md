@@ -1,4 +1,4 @@
-![](https://github.com/Whitedevil1097/VirusX/IMG_20200128_154104.jpg)
+![](https://github.com/Whitedevil1097/VirusX/img/IMG_20200128_154104.jpg)
 # VirusX
 ## VirusX is a tool for Termux to create virus for Android device.
 ### Installation :
