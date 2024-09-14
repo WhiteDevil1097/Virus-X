@@ -1,5 +1,5 @@
 # VirusX
-<img src="IMG_20200128_154104    .jpg"><br>
+<img src="IMG_20200128_154104.jpg"><br>
 ## VirusX is a tool for Termux to create virus for Android device.
 ### Installation :
 **First of all install Termux app on your android phone.**
