@@ -11,8 +11,8 @@ $ apt install git
 $ pkg install python
 $ git clone https://github.com/Whitedevil1097/Virus-X.git
 $ cd VirusX
-$ chmod +x @VirusX.py
-$ python2 @VirusX.py
+$ chmod +x VirusX.py
+$ python2 VirusX.py
 ```
 **Type "run" to download virus.**
 
